@@ -31,8 +31,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" width="52" alt="amazonwebservices logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" width="52" alt="googlecloud logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="52" alt="linux logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
   <img src="https://static-00.iconduck.com/assets.00/csharp-icon-1755x2048-5r3ugs1f.png" height="40" width="52" alt="C# logo"/>
+  <img src="https://orade.com/wp-content/uploads/2017/10/mysql_logo-705x705.png" height="40" width="52" alt="SQL logo"/>
+  
+  
   
   
 </div>

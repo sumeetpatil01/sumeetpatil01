@@ -16,7 +16,8 @@
 
 <h1 align="center">👋 Hello World! <br /> I'm Sumeet Patil</h1>
 
-<h3 align="center">🌟 Aspiring Data Scientist & Full Stack Developer 🌟</h3>
+<h3 align="center">🌟 Aspiring Data Scientist & Full Stack Developer <br /> Passionate About AI & Innovation 🚀</h3>
+
 
 <h3 align="left">🛠 Languages and Tools</h3>
 

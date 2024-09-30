@@ -2,29 +2,23 @@
   <img height="150" src="https://media.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif" />
 </div>
 
----
-
 <div align="center">
   <a href="https://www.linkedin.com/in/sumeet-patil-2b70bb227/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" alt="LinkedIn logo" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn logo" />
   </a>
   <a href="https://github.com/sumeetpatil01" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&style=for-the-badge" height="25" alt="GitHub logo" />
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="GitHub logo" />
   </a>
   <a href="mailto:sumeetp967@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=EA4335&logoColor=white&style=for-the-badge" height="25" alt="Email logo" />
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=EA4335&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Email logo" />
   </a>
 </div>
 
----
+<h1 align="center">👋 Hello World! <br /> I'm Sumeet Patil</h1>
 
-<h1 align="center">👋 Hello! I'm Sumeet Patil</h1>
+<h3 align="center">🌟 Aspiring Data Scientist & Full Stack Developer 🌟</h3>
 
-<h3 align="center">🌟 Aspiring Data Scientist & Full Stack Developer</h3>
-
----
-
-<h3 align="left">🛠️ Skills & Technologies</h3>
+<h3 align="left">🛠 Languages and Tools</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="Python logo" />
@@ -36,30 +30,24 @@
   <img src="https://miro.medium.com/v2/resize:fit:512/1*doAg1_fMQKWFoub-6gwUiQ.png" height="40" width="52" alt="MySQL logo" />
 </div>
 
----
-
 <h3 align="left">📈 Projects & Achievements</h3>
 <ul>
-  <li>💻 **Blood Bank Management System**: A comprehensive web application designed for managing blood donations and requests.</li>
-  <li>📦 **Quick Commerce Project**: A robust platform that enhances online shopping experiences.</li>
-  <li>🍔 **Food Ordering Application**: A full-stack solution for managing online food orders.</li>
-  <li>📊 **Sentiment Analysis Application**: A machine learning app that classifies restaurant reviews.</li>
-  <li>📈 **Weather Forecast API**: A backend API developed with Python and Flask to provide weather forecasts.</li>
-  <li>📝 **To-Do List Application**: A full-stack app for efficient task management, showcasing CRUD operations.</li>
+  <li>💻 <strong>Blood Bank Management System</strong> - A web app for managing blood donations and requests.</li>
+  <li>📦 <strong>Quick Commerce Project</strong> - An efficient platform for online shopping experiences.</li>
+  <li>🍔 <strong>Food Ordering Application</strong> - Full-stack app for online food orders with order and menu management.</li>
+  <li>📊 <strong>Sentiment Analysis App</strong> - A machine learning app to classify restaurant reviews.</li>
+  <li>📈 <strong>Weather Forecast API</strong> - A backend API for providing weather forecasts built with Python and Flask.</li>
+  <li>📝 <strong>To-Do List Application</strong> - A full-stack application for managing tasks, showcasing CRUD operations.</li>
 </ul>
 
----
-
-<h3 align="left">💼 Professional Experience</h3>
+<h3 align="left">💼 Experience</h3>
 <ul>
-  <li>🛠️ **Full Stack Development Intern**, Webstack Academy: Developed responsive web applications using the MERN stack, enhancing skills in HTML, CSS, JavaScript, and React.</li>
-  <li>🔍 **Data Science Intern**, Verzeo: Created a machine learning-based sentiment analysis application, gaining experience in data preprocessing and model training.</li>
+  <li>🛠️ Full Stack Development Internship at Webstack Academy - Developed responsive web applications using the MERN stack.</li>
+  <li>🔍 Data Science Internship at Verzeo - Developed a machine learning-based sentiment analysis application.</li>
 </ul>
 
----
-
-<h3 align="left">📫 Let's Connect!</h3>
-<p>I'm always open to collaboration and new opportunities. Feel free to reach out to discuss potential projects, share ideas, or connect over technology:</p>
+<h3 align="left">📫 Get in Touch!</h3>
+<p>I'm always open to collaboration and new opportunities. Feel free to connect with me:</p>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/sumeet-patil-2b70bb227/" target="_blank">
@@ -73,14 +61,10 @@
   </a>
 </div>
 
----
-
 <h3 align="left">🌐 Portfolio</h3>
-<p>Explore my work and projects at: <a href="https://main--sumeetpatil-portfolio.netlify.app/" target="_blank">Sumeet's Portfolio 🔗</a></p>
+<p>Check out my work and projects at: <a href="https://main--sumeetpatil-portfolio.netlify.app/" target="_blank">Sumeet-Portfolio 🔗</a></p>
 
----
-
-<h3 align="left">📚 Continuous Learning</h3>
+<h3 align="left">📚 Learning and Growth</h3>
 <p>Currently enhancing my skills in:</p>
 <ul>
   <li>📊 Data Structures & Algorithms</li>
@@ -88,15 +72,12 @@
   <li>🌐 Advanced Full Stack Development</li>
 </ul>
 
----
+## 🤝 Let's Connect!
 
-<h3 align="left">🤝 Let's Collaborate!</h3>
-<p>I'm excited to meet new people and work on interesting projects. Don't hesitate to reach out!</p>
+I'm always excited to meet new people and collaborate on interesting projects. Feel free to reach out if you want to chat about tech, share ideas, or work together!
 
 - **[LinkedIn](https://www.linkedin.com/in/sumeet-patil-2b70bb227/)** 🌐
 - **[Email Me](mailto:sumeetp967@gmail.com)** 📩
 - **[Portfolio](https://main--sumeetpatil-portfolio.netlify.app/)** 🌟
 
----
-
-<p align="center">Thank you for visiting my profile! 🚀</p>
+Thank you for visiting my profile! 🚀

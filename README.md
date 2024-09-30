@@ -80,4 +80,4 @@ I'm always excited to meet new people and collaborate on interesting projects. F
 - **[Email Me](mailto:sumeetp967@gmail.com)** 📩
 - **[Portfolio](https://main--sumeetpatil-portfolio.netlify.app/)** 🌟
 
-Thank you for visiting my profile! 🚀
+<p align="center">Thank you for visiting my profile! 🚀</p>

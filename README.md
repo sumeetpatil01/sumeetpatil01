@@ -17,9 +17,6 @@
 <h1 align="center">👋 Hello World! <br /> I'm Sumeet Patil</h1>
 
 <h3 align="center">🌟 Aspiring Data Scientist & Full Stack Developer <br /> Passionate About AI & Innovation 🚀</h3>
-![Sumeet's GitHub Contributions](https://github-readme-stats.vercel.app/api?username=sumeetpatil01&count_private=true&show=contribs&theme=radical)
-
-
 
 <h3 align="left">🛠 Languages and Tools</h3>
 

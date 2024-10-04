@@ -45,6 +45,7 @@
   <li>📊 <strong>Sentiment Analysis App</strong> - A machine learning app to classify restaurant reviews.</li>
   <li>📈 <strong>Weather Forecast API</strong> - A backend API for providing weather forecasts built with Python and Flask.</li>
   <li>📝 <strong>To-Do List Application</strong> - A full-stack application for managing tasks, showcasing CRUD operations.</li>
+  <li>✍️ <strong>CollabWrite</strong> - A collaborative text editor project built using Go, with enhanced front-end and seamless collaborative functionality.</li>
 </ul>
 
 <h3 align="left">💼 Experience</h3>
